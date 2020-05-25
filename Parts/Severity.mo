@@ -1,4 +1,4 @@
-within Covid19_modeling.Parts;
+within Covid19Modeling.Parts;
 type Severity = enumeration(
     Asymptomatic,
     Mild,

@@ -1,4 +1,4 @@
-﻿within Covid19_modeling.interfaces;
+﻿within Covid19Modeling.interfaces;
 model ModelSettings "contain all model parameters"
 
   constant Modelica.SIunits.Time day=86400;

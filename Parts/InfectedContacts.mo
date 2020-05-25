@@ -1,4 +1,4 @@
-﻿within Covid19_modeling.Parts;
+﻿within Covid19Modeling.Parts;
 model InfectedContacts
   Physiolibrary.Types.RealIO.PopulationChangeOutput contacts annotation (
       Placement(transformation(extent={{-34,-90},{-14,-70}}),

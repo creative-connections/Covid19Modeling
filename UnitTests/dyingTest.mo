@@ -1,4 +1,4 @@
-within Covid19_modeling.UnitTests;
+within Covid19Modeling.UnitTests;
 model dyingTest
   Parts.Dying dying
     annotation (Placement(transformation(extent={{-20,4},{0,24}})));

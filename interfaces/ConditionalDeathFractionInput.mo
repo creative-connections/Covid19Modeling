@@ -1,4 +1,4 @@
-within Covid19_modeling.interfaces;
+within Covid19Modeling.interfaces;
 partial model ConditionalDeathFractionInput
   "Input of real fraction input vs. parametric fraction inpute"
 

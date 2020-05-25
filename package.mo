@@ -1,8 +1,8 @@
 within ;
-package Covid19_modeling
+package Covid19Modeling
 
 
 
   annotation (uses(Modelica(version="3.2.3"), Physiolibrary(version=
             "2.3.2-beta")));
-end Covid19_modeling;
+end Covid19Modeling;

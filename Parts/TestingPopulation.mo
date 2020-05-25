@@ -1,4 +1,4 @@
-within Covid19_modeling.Parts;
+within Covid19Modeling.Parts;
 model TestingPopulation
   Physiolibrary.Types.RealIO.PopulationInput untestedAsymptomatic annotation (
       Placement(transformation(extent={{-90,-62},{-62,-34}}),
@@ -18,7 +18,7 @@ model TestingPopulation
         extent={{-18,-18},{18,18}},
         rotation=180,
         origin={118,-66})));
-  outer Covid19_modeling.interfaces.ModelSettings modelSettings
+  outer Covid19Modeling.interfaces.ModelSettings modelSettings
     annotation (Placement(transformation(extent={{62,76},{82,96}})));
 
   Physiolibrary.Types.RealIO.PopulationChangeOutput

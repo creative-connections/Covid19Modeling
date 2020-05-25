@@ -1,4 +1,4 @@
-within Covid19_modeling.Parts;
+within Covid19Modeling.Parts;
 model Dying
   outer interfaces.ModelSettings modelSettings
     annotation (Placement(transformation(extent={{62,76},{82,96}})));

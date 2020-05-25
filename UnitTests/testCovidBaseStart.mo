@@ -1,4 +1,4 @@
-within Covid19_modeling.UnitTests;
+within Covid19Modeling.UnitTests;
 model testCovidBaseStart
   Physiolibrary.Population.Components.Population uninfectedAtRisk(
       population_start=1e6)

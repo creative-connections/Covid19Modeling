@@ -1,4 +1,4 @@
-within Covid19_modeling.UnitTests;
+within Covid19Modeling.UnitTests;
 model TestDoubleLeakage2DConveyor
   Parts.DoubleLeakageConveyor doubleLeakageConveyor(useDeathFractionRate=
         true)

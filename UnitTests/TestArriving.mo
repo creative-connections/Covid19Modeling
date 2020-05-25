@@ -1,4 +1,4 @@
-within Covid19_modeling.UnitTests;
+within Covid19Modeling.UnitTests;
 model TestArriving
   Physiolibrary.Population.Components.Population population
     annotation (Placement(transformation(extent={{-48,-4},{-28,16}})));

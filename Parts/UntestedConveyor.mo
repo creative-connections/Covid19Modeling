@@ -1,4 +1,4 @@
-within Covid19_modeling.Parts;
+within Covid19Modeling.Parts;
 model UntestedConveyor
   Physiolibrary.Population.Interfaces.PopulationPort_a inflow annotation (
       Placement(transformation(extent={{-110,-42},{-90,-22}}),

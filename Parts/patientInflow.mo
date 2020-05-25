@@ -1,4 +1,4 @@
-within Covid19_modeling.Parts;
+within Covid19Modeling.Parts;
 model patientInflow
 
   Physiolibrary.Population.Interfaces.PopulationPort_a fromPopulation

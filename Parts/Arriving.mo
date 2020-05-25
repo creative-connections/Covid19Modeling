@@ -1,4 +1,4 @@
-within Covid19_modeling.Parts;
+within Covid19Modeling.Parts;
 model Arriving
   constant Modelica.SIunits.Time day=86400;
   parameter Modelica.SIunits.Time timeOfArrival=1*day;

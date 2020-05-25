@@ -1,4 +1,4 @@
-within Covid19_modeling.Parts;
+within Covid19Modeling.Parts;
 model ClockedDigitalConveyor002
 
   constant Modelica.SIunits.Time day=86400;

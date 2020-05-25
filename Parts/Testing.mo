@@ -1,4 +1,4 @@
-within Covid19_modeling.Parts;
+within Covid19Modeling.Parts;
 model Testing
   Physiolibrary.Types.RealIO.PopulationInput untestedAsymptomatic annotation (
       Placement(transformation(extent={{-96,26},{-72,50}}),

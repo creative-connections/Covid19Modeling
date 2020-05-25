@@ -1,4 +1,4 @@
-within Covid19_modeling.Parts;
+within Covid19Modeling.Parts;
 model DoubleLeakageThroughDigitalConveyor
   //********************************
   //This component models the flow compartment of untested patients

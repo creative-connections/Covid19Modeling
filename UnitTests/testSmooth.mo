@@ -1,4 +1,4 @@
-within Covid19_modeling.UnitTests;
+within Covid19Modeling.UnitTests;
 model testSmooth
   Modelica.Blocks.Sources.Step step
     annotation (Placement(transformation(extent={{-64,44},{-44,64}})));

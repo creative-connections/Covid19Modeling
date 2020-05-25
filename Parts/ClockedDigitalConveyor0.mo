@@ -1,4 +1,4 @@
-within Covid19_modeling.Parts;
+within Covid19Modeling.Parts;
 model ClockedDigitalConveyor0
 
   //  parameter Physiolibrary.Types.Population population_init=1e-8

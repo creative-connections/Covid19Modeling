@@ -1,4 +1,4 @@
-within Covid19_modeling.UnitTests;
+within Covid19Modeling.UnitTests;
 model TestDoubleLeakageConveyorPopulationSum
   Physiolibrary.Population.Components.Population populationUntestedOut(
       population_start=0)

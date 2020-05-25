@@ -1,4 +1,4 @@
-within Covid19_modeling.interfaces;
+within Covid19Modeling.interfaces;
 model PopulationChangeMeasure
     extends Modelica.Icons.RotationalSensor;
 

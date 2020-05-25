@@ -1,4 +1,4 @@
-within Covid19_modeling.UnitTests;
+within Covid19Modeling.UnitTests;
 model TestDoubleLeakageConveyor
   Physiolibrary.Population.Sources.Growth InflowUntested(PopulationChange(
         displayUnit="1/d") = 0.00011574074074074)

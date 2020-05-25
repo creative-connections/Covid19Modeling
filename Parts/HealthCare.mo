@@ -1,4 +1,4 @@
-within Covid19_modeling.Parts;
+within Covid19Modeling.Parts;
 model HealthCare
   Physiolibrary.Types.RealIO.PopulationOutput cumulativePositiveTests
     annotation (Placement(transformation(

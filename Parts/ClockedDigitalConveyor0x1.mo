@@ -1,4 +1,4 @@
-within Covid19_modeling.Parts;
+within Covid19Modeling.Parts;
 model ClockedDigitalConveyor0x1
   parameter Modelica.SIunits.Time delay=10;
 

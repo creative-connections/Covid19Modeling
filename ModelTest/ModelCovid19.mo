@@ -1,4 +1,4 @@
-within Covid19_modeling.ModelTest;
+within Covid19Modeling.ModelTest;
 model ModelCovid19
 
     type Severity = enumeration(
